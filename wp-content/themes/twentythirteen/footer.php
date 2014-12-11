@@ -15,7 +15,8 @@
 			<?php get_sidebar( 'main' ); ?>
 
 			 <div class="site-info">
-				Site by <a target="_blank" href="http://www.andapatridge.com">And A Patridge</a>.
+				Site by <a target="_blank" href="http://www.andapartridge.com">And A Partridge</a>.
+			</div> <!-- .site-info -->
 		</footer><!-- #colophon -->
 	</div><!-- #page -->
 
